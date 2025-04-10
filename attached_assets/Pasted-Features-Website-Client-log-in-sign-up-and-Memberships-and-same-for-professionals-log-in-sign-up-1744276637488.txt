@@ -1,0 +1,145 @@
+Features Website
+
+Client log in sign up and Memberships  and same for professionals log in sign up and memberships and I have a list for each membership u must put and must link to payment when people pay 
+
+Gift card on the top bar and will give u want to include in there 
+
+Dashboard for Providers including :
+
+-	Home
+-	Bookings 
+-	Live tracking Activate 
+-	Testimonials 
+-	Calendar 
+-	Services 
+-	Analytics
+-	Marketing 
+-	Payment 
+-	Memberships 
+-	Profile 
+-	Achievements -Here they will have the badges which they will unlock for example 100 bookings they will get 5% Top, High rated badge etc etc badges 
+
+When providers will join they must attach few documents (I cant say which one but is like passport , visa and other few ) agree with terms , write their bio , put their picture, put their services price, their hours of work and then at the end will be a text with if they get approved they will be on the website and the company will email them 
+
+
+
+For the client Dashboard when they log in to see their dashboard after the client has spoken with  Providers  and has booked the appointment they should have the followings in the picture below:
+
+1.	Messages Icon & Inbox:
+o	Add a prominent "Messages" icon on the sidebar or top navigation bar.
+o	Display unread message notifications.
+o	Enable instant chat for real-time communication with providers.
+2.	Live Tracking Feature:
+o	Integrate a clearly labelled "Live Tracking" button, enabling real-time tracking of healthcare providers.
+o	Include an interactive map, estimated arrival times, and provider information.
+3.	Leave Reviews & Ratings:
+o	Automatically prompt users to leave reviews and ratings after service completion.
+o	Create a "My Reviews" section for users to manage, view, and update past reviews.
+o	Provide easy-to-use star rating systems and comment sections.
+4.	Upcoming Appointments & Reminders:
+o	Clearly feature an "Upcoming Appointments" section on the dashboard.
+o	Offer SMS, email, or push notification reminders for upcoming appointments.
+
+5.Service History Dashboard:
+•	Offer users a clear summary of their providers  service history, frequency of usage, spending patterns, and providers they’ve interacted with.
+
+6.Saved providers :
+•	Provide an option to bookmark favourite or frequently used providers.
+•	Enable easy viewing, managing, and direct booking with saved providers .
+
+7.Complaint Button:
+•	Include a clearly marked "Complaint" button for users to directly contact  the email (,……) with any issues or concerns they might have.
+
+8. Referral & Rewards Program:
+•	Implement an easy-to-use referral system where clients can invite others and receive rewards or discounts on future services.
+
+9.Integrated Payment Management:
+•	Allow users to securely save multiple payment methods for convenient checkout.
+•	Display detailed receipts and billing history.
+
+10.Subscriptions 
+
+I will give them to you if we agree to work with u 
+
+
+Then on landing page will be Type a provider chose your location and date 
+
+Then you must add the filters such as budget (Min spend) ,price clear and Apply, Most popular sort by most popular, price low to high, Dual expertise, emergency support , years of experience , numbers of bookings, price high to low, closest to me, 24/7 availability , highest rated and then put Clear and Apply 
+
+Then will be the profiles of the Providers with the picture, the heart on the top right on their profile so the client can save , Verified badge , the other icon of share as client might want to share that provider with others , also their location, services and money , the reviews , and how many people booked with them and a short intro .
+
+When people click on that profile will be a deep intro with followings :
+
+-	ON THE LEFT SIDE u will see 
+Profile , name, location, services and money they charge , verified badge V, and how many people booked with them and also badges moving like this website( look on the right side next to the profile ) : https://topmate.io/anubhav_ritolia?utm_content=ai_search_27892&utm_source=landing_page_hero&utm_medium=hito&utm_term=hito_landing
+
+And then the provider will be having :About them which they mentioned when they joined , their expertise , What they can offer , their experience, Reviews , Help about support and then the bottom of page with legals etc 
+
+On the right side like fiver have it will be :How many people looking to book the way www.YumMatch.com has, share button the way fiver has and Report button the way fiver has and then will be 4  small boxes with : face to face and the price , Video consultation and price , Location and Date  and then Buy option , and then Contact the Provider 
+
+So when client has not booked yet the provider but used the Contact provider chat the client should not be able or allowed to text phone number, email   or social media like fiver has . however after the client booked the attach option and emoji must be available for the client and the provider but again not text phone number, email   or social media only live tracking to be on from provider before the appointment 
+
+
+
+ 
+
+
+
+
+And then payments like stripe, paypal, credit card and debit card  and  klarna pay later .So website must automatically take 26% from provider and 6% from the client from the total amount so lets say £100 the provider charges so website take 26% commission so will be £26 for website and provider will get £74 in 2-5 workings days and website must add 6% to client fee charged to the client which will be taken from the website which is £6 .Will be this for all payments regardless of the amount the percentage which the website take must be 26% and 6% 
+
+Last and not Least you must  : add  logos from figma for example : Failed to load rooms due to timeout , Please check your internet connection and try again.
+
+Mobile Compatibility Check:** - Assess the mobile-friendliness of the website across various devices. - Optimize the website for a seamless experience on smartphones and tablets.
+
+Conversion Rate Optimization (CRO):** - Analyze conversion funnels and user behavior on the website. - Identify opportunities to improve conversion rates. - Implement A/B testing and other strategies for optimal conversion performance.
+
+SEO Health Check:** - Conduct a thorough SEO audit to assess on-page and off-page factors. - Identify opportunities for improving search engine rankings. - Provide recommendations for keyword optimization and content strategy. (you will be given and SEO expert who will give u what to include ) 
+
+
+Project Name	Main Features	Sub Features	Functions	Front End Hours	Back End Hours	Total Hours
+Customer Panel / Website	Project Setup	Project Architecture, Layout Design	Initial Setup			
+	Authentication	Signup/Login (Email, Phone, Third-party), Two-factor Auth, Forgot/Reset Password	Secure user registration/login, password management			
+	Browse Providers	Search by Location, Date, Budget, Price, Popularity, Experience, Ratings, Availability, Emergency Support, Dual Expertise	Search and filtering capabilities for finding providers			
+	Provider Profiles	Detailed Profile (Name, Location, Services, Rates, Verification, Badges, Reviews, Bookings), About, Expertise, Offers, Experience, Contact Restrictions	View provider details, booking options, direct contact (restricted before booking)			
+	Reviews & Ratings	Rate and review providers, manage past reviews	Star ratings, feedback system			
+	Live Tracking	Real-time provider tracking, interactive map	Geolocation integration for appointment tracking			
+	Messaging System	Instant messaging, notifications, restricted contact details pre-booking	Real-time chat, messaging inbox, unread notifications			
+	Payment Integration	Secure payments, multiple methods, billing history	Secure payment handling, detailed transaction receipts			
+	Appointments & Reminders	Upcoming appointments dashboard, notification reminders (SMS/Email/Push)	Appointment scheduling and reminders			
+	Service History	Service usage summary, spending patterns	User transaction and interaction history			
+	Saved Providers	Bookmark frequently used providers, manage bookmarks	Easy access, booking saved providers			
+	Complaint Button	Direct complaint submission via email	Issue reporting and management			
+	Referral & Rewards	Referral program with rewards/discounts	Referral system management			
+	Gift Cards mentioned on the top of landing page 	Types: Occasion-based, Amount selection, Payment checkout	Purchase and redeem gift cards			
+	Subscriptions is mentioned after Join Button on the landing page on the right side 
+	Membership plans (details TBD), payment integration	Subscription management			
+	
+
+AI-Powered Matching Engine(You will be working with an AI specialist )
+
+	Smart triage engine 
+	Interprets user-submitted natural language queries to identify service needs and urgency levels; applies filters like location, price, availability, and reputation to rank results
+	intelligent assistant converts vague needs into actionable service categories; enables contextual matching, prioritization, and intelligent search ranking without revealing business domain; builds adaptive intelligence over time
+		
+	Footer which is the bottom of the page & Affiliate Links	Affiliate Links, Follow us on Facebook, Instagram, TikTok, ©2025 ….- All Rights Reserved, Services, Our Story, Explore Providers, Gift Cards, FAQ, Legals (Privacy Policy, Terms of Use, Cookie Policy), Community Careers, Become an Affiliate, Contact	Footer navigation, social media integration, and affiliate management			
+Provider Dashboard	Authentication	Signup/Login, Document uploads, Terms agreement, Profile completion	Secure registration with document verification in more details if we agree to work with you 			
+	Dashboard	Home, Bookings, Live Tracking Activation, Testimonials, Calendar, 
+Services given and price for each of them , 
+Analytics, Marketing, Payments, Memberships, Profile, Achievements (Badges, incentives)	Provider management tools and detailed analytics			
+	Account Settings	Profile picture, certifications, service details, pricing, working hours	Manage provider profiles and offerings			
+	Requests Management	View/manage open booking requests, respond and map view	Manage client requests			
+	Bookings Management	Confirmed booking overview, management	Manage confirmed bookings			
+	Notifications & Payment	Notification settings, Payment setup (Card, PayPal)	Notification management, secure payment options			
+	Support	Help desk, chat/email support	Provider support and queries management			
+Admin Panel	Project Setup	Admin panel structure and layout	Admin panel setup			
+	Authentication	Secure admin login	Admin security setup			
+	User & Provider Management	View/edit/manage users and providers	Comprehensive user/provider management			
+	Reports & Analytics	Detailed analytics on revenue, user activities, provider performance	Analytical reporting			
+	Payments & Refunds	Monitor transactions, manage refunds, disputes	Payment management and dispute resolution			
+	Provider Profile Approval	Approve/reject provider profiles and document verification	Provider onboarding and verification			
+	Bookings & Support Management	Manage booking requests, support inquiries	Booking and support ticket management			
+	Knowledge Base	Manage support materials	Centralized information management			
+
+
+You will be working with 3 other people Jebin, SEO guy  and AI person
