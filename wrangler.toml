@@ -1,4 +1,6 @@
-name = "yum-match-api"
-main = "dist/index.mjs"
+name = "yum-match-frontend"
 type = "javascript"
 compatibility_date = "2025-04-10"
+
+[site]
+bucket = "./dist/public"
