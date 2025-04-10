@@ -1,0 +1,4 @@
+name = "yum-match-api"
+main = "dist/index.js"
+type = "javascript"
+compatibility_date = "2025-04-10"
